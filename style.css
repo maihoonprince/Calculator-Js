@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Montserrat:wght@100&family=Poppins:wght@100;400&family=Roboto:wght@300&display=swap');
+
+
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: 'roboto', sans-serif;
+}
+
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    width: 66px;
+}
+
+.row{
+    margin: 8px 0;
+}
+
+.row input{
+    font-size: 24px;
+    margin: 0;
+    padding: 10px 0;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 291px;
+}
